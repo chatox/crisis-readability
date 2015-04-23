@@ -1,0 +1,52 @@
+﻿------------------------------------------------------
+INSTRUCTIONS FOR EVALUATORS
+------------------------------------------------------
+
+TITLE: Help emergency responders write better tweets
+
+Read each tweet carefully and indicate if it:
+A. Is very CLEAR - easy to understand
+B. Needs slight IMPROVEMENT to be clear
+C. Is very UNCLEAR - hard to understand
+
+Examples of Very CLEAR (easy to understand) tweets:
+1. Floods cover more than half of Manila http://t.co/IFqssllMhe  (Posted during the 2013 Manila floods in the Philippines)
+2. Rainfall warning ended for Calgary but flooding potential still exists: http://t.co/4KwPzRMZHP #yyc @ctvnews (Posted during the 2013 Alberta floods in Canada)
+
+Examples of tweets which need slight IMPROVEMENT to be clear:
+1. If you find an injured native animal, call WIRES 13000WIRES or DPI for livestock. http://t.co/JcdwqBmU4P @WIRES_NSW #nswfires (Posted during the 2013 Australia bushfires) How this tweet can be improved: If you find an injured native animal, call WIRES. If you find injured livestock, call DPI. http://t.co/JcdwqBmU4P @WIRES_NSW #nswfires
+2. BREAKING #SGHaze PSI hits 290! (Posted during the 2013 Singapore haze) How this tweet can be improved: BREAKING: Singapore Haze hits 290 pound per square inch! #SGHaze
+
+Examples of Very UNCLEAR (hard to understand) tweets:
+1. NUMBER CODING ADVISORY: Lifted for tomorrow (Aug. 9, 2012) includes MAKATI RT @MakatiTraffic #floodsPH #rescuePH #PrayforthePH (Posted during the the 2012 Philippines floods)
+2. Reminders: check #walangpasok for class/work suspensions; use #RescuePH for help; #SAFENOW if you've been rescued; #FloodPH for… (Posted during the 2013 Manila floods in the Philippines)
+
+------------------------------------------------------
+EXAMPLE QUESTIONS AS SEEN BY EVALUATORS
+( ) indicates a radio button, [....] a text area
+------------------------------------------------------
+
+57 fires scorch eastern Australia: At least 57 bush fires are raging in eastern Australia, including 14 that a... http://t.co/aNib7D0scc (Posted during the 2013 Australia bushfires)
+
+This tweet:
+( ) Is very CLEAR - easy to understand
+( ) Needs slight IMPROVEMENT to be clear
+( ) Is very UNCLEAR - hard to understand
+
+How would you improve this tweet?
+[....]
+*Feel free to re-write the tweet completely.
+
+------------------------------------------------------
+
+Water restrictions remain in place #yycflood (Posted during the 2013 Alberta floods in Canada)
+
+This tweet:
+
+( ) Is very CLEAR - easy to understand
+( ) Needs slight IMPROVEMENT to be clear
+( ) Is very UNCLEAR - hard to understand
+
+How would you improve this tweet?
+[....]
+*Feel free to re-write the tweet completely.
