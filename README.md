@@ -4,7 +4,7 @@
 
 If you use this data, please cite:
 
-Irina Temnikova, Carlos Castillo, Sarah Vieweg: "The Case for Readability of Crisis Communications in Social Media". In Social Web for Diaster Management (SWDM), 18-22 May 2015. Florence, Italy.
+Irina Temnikova, Carlos Castillo, Sarah Vieweg: [The Case for Readability of Crisis Communications in Social Media](http://chato.cl/papers/temnikova_vieweg_castillo_2015_readability_crisis_tweets_disaster_social_media.pdf). In Social Web for Diaster Management (SWDM), 18-22 May 2015. Florence, Italy.
 
 This data was annotated by crowdsourcing workers from platform Crowdflower.
 
